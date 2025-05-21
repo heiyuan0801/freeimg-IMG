@@ -1,4 +1,4 @@
-# 骤雨重山图床
+# FreeImg图床
 
 English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_CN.md)
 
@@ -26,11 +26,11 @@ English | [简体中文](https://github.com/uxiaohan/ZYCS-IMG/blob/main/README_C
 
 Vercel Automated Deployment
 
-[![骤雨重山图床](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/ZYCS-IMG)
+[![FreeImg图床](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/ZYCS-IMG)
 
 Cloudflare Pages automatic deployment
 
-[![骤雨重山图床](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/ZYCS-IMG)
+[![FreeImg图床](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/ZYCS-IMG)
 
 **Manual Deployment**
 

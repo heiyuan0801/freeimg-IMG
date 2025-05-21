@@ -1,4 +1,4 @@
-# 骤雨重山图床
+# FreeImg图床
 
 > 在现代互联网环境中，快速稳定的图片访问是提升用户体验的重要因素之一。本文将介绍如何利用Cloudflare Pages部署稳定的无限图床Imgur，实现图片上传和访问，并进一步通过WordPress的WP.COM全球图片缓存进行加速，提高图片加载速度。可用于免费图片托管解决方案，Flickr 等替代品。
 
@@ -16,7 +16,7 @@
 
 ### 页面
 
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721639712.png)
+![FreeImg图床](https://uxiaohan.github.io/v2/2024/07/1721639712.png)
 
 [点击体验Demo](https://wp-cdn.4ce.cn/)
 
@@ -26,11 +26,11 @@
 
 Vercel 自动部署
 
-[![骤雨重山图床](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/ZYCS-IMG)
+[![FreeImg图床](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/ZYCS-IMG)
 
 Cloudflare Pages 自动部署
 
-[![骤雨重山图床](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/ZYCS-IMG)
+[![FreeImg图床](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/ZYCS-IMG)
 
 **手动部署**
 
@@ -42,9 +42,9 @@ Cloudflare Pages 自动部署
 
 **图片步骤**
 
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640641.png)
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640649.png)
-![骤雨重山图床](https://uxiaohan.github.io/v2/2024/07/1721640656.png)
+![FreeImg图床](https://uxiaohan.github.io/v2/2024/07/1721640641.png)
+![FreeImg图床](https://uxiaohan.github.io/v2/2024/07/1721640649.png)
+![FreeImg图床](https://uxiaohan.github.io/v2/2024/07/1721640656.png)
 
 ### 特点
 
